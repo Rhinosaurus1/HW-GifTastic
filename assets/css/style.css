@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+ }
+
+body{
+	background-image: url("../images/grey_wash_wall.png");
+	font-family: 'Arial','Helvetica Neue', Helvetica,sans-serif;
+	font-size:18px;
+}
+
+h1,h2,h3,h4{
+	font-family:'Georgia', Times, 'Times New Roman', serif;
+}
+
+.container{
+	max-width:960px;
+	margin-bottom:100px;
+}
+
+.card-title{
+	margin:0px;
+}
+
+.card{
+	align-items:center;
+	border: none;
+	background: #ffffff;
+}
+
+.card-body{
+	padding: 15px;
+	background: #ffffff;
+}
+
+.btn{
+	margin:5px;
+}
+.cardDiv{
+	background:#ffffff;
+	margin:5px;
+	padding:5px;
+	float:left;
+}
+
+.form-group{
+	background:#ffffff;
+	text-align:center;
+}
+
+#buttons-view{
+	text-align:center;
+}
+
+.col-md-8{
+	padding-top:15px;
+	padding-bottom:15px;
+	border:solid;
+	border-width:4px;
+	border-left-width:2px;
+}
+
+.col-md-4{
+	padding-top:15px;
+	padding-bottom:15px;
+	border:solid;
+	border-width:4px;
+	border-right-width:2px;
+}
+
+.col-md-12{
+	padding:15px;
+	border:solid;
+	border-width:4px;
+	background: #4aaaa5;
+}
+
+#title-div{
+	border:solid;
+	border-width:3px;
+}
+
+.new-btns{
+	color: #ffffff;
+	font-style:bold;
+	font-size:20px;
+	background:#4aaaa5;
+}
+
+#label-id{
+	margin:8px;
+	font-style:bold;
+	font-size:20px;
+}
